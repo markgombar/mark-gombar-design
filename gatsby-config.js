@@ -1,7 +1,12 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
-    title: "Mark Gombar Design Portfolio",
+    siteUrl: "https://markg.design",
+    fontEmbed: "https://use.typekit.net/jfd8lke.css",
+    mainTitle: "Mark Gombar's Design Portfolio - Web & UI Designer and UX Engineer",
+    headline: "Web & UI Designer and UX Engineer",
+    titleTemplate: "Mark Gombar's Design Portfolio",
+    author: "Mark Gombar",
+    mainDescription: "Mark Gombar is a Senior Web & UI Designer and UX Engineer, this is his online portfolio. He is a United States citizen located in Connecticut."
   },
   plugins: [
     "gatsby-plugin-sass",

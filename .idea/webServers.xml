@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e074e2ff-f0e2-41d9-95fc-a4c3b726f6a7" name="ps617521.dreamhostps.com" url="https://markg.design/">
+        <fileTransfer rootFolder="/home/beefsquatch/markg.design" accessType="SFTP" host="ps617521.dreamhostps.com" port="22" sshConfigId="6d053777-b59b-439a-bc60-e67c8e1eb142" sshConfig="beefsquatch@ps617521.dreamhostps.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
